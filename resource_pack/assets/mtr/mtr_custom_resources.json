@@ -1,7 +1,7 @@
 {
     "custom_trains": {
-        "a_train_ael_noicon": {
-            "name": "CAF-train-AEL-NoIcon",
+        "caf-train-ael-noicon": {
+            "name": "CAF-Train-AEL-NoIcon",
             "color": "008d8d",
             "base_train_type": "a_train_ael",
             "speed_sound_base_id": "a_train_ael",
